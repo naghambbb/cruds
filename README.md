@@ -14,7 +14,7 @@ Follow these steps to set up and run the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/miladkittan/cruds.git
+git clone https://github.com/naghambbb/cruds.git
 cd cruds
 ```
 
