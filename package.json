@@ -1,0 +1,25 @@
+{
+  "name": "cruds",
+  "version": "1.0.0",
+  "description": "A simple command-line application built with Node.js for managing user data. This app allows you to create, read, update, and delete users, with data saved in a JSON file for persistence.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladkittan/cruds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/miladkittan/cruds/issues"
+  },
+  "homepage": "https://github.com/miladkittan/cruds#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
